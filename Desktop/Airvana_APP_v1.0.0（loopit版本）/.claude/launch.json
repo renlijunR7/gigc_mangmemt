@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "airvana-v5",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["Airvana_APP_loopit/server.mjs"],
+      "env": { "PORT": "8090" },
+      "port": 8090,
+      "autoPort": true
+    }
+  ]
+}
